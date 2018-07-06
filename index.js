@@ -1,2 +1,3 @@
 console.error("ERROR");
-console.log();
+console.log("Logging");
+console.warn('Warning');
